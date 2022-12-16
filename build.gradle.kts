@@ -7,7 +7,7 @@ plugins {
 
 group = "io.k-libs"
 version = "0.1.0"
-description = "Some library description."
+description = "Pure Kotlin utilities for converting numbers to raw bytes."
 
 repositories {
   mavenCentral()

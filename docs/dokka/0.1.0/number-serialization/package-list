@@ -1,0 +1,37 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:io.klibs.serial////PointingToDeclaration/number-serialization/io.klibs.serial/index.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.Byte#/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.Byte#kotlin.ByteArray#kotlin.Int/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.Int#kotlin.ByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.Long#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.Long#kotlin.ByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.Short#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.Short#kotlin.ByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.UByte#/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.UByte#kotlin.ByteArray#kotlin.Int/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.UInt#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.UInt#kotlin.ByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.ULong#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.ULong#kotlin.ByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.UShort#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getBytes/kotlin.UShort#kotlin.ByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.Byte#/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.Byte#kotlin.UByteArray#kotlin.Int/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.Int#kotlin.UByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.Long#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.Long#kotlin.UByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.Short#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.Short#kotlin.UByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.UByte#/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.UByte#kotlin.UByteArray#kotlin.Int/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.UInt#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.UInt#kotlin.UByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.ULong#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.ULong#kotlin.UByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.UShort#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+$dokka.location:io.klibs.serial//getUBytes/kotlin.UShort#kotlin.UByteArray#kotlin.Int#kotlin.Boolean/PointingToDeclaration/number-serialization/io.klibs.serial/get-u-bytes.html
+io.klibs.serial
+

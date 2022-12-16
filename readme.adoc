@@ -1,26 +1,53 @@
-= K-Libs Multi-Platform Library Repo Template
+= Number Serialization
 :source-highlighter: highlightjs
 :gh-group: k-libs
 :gh-name: k-some-lib
-:lib-package: io.klibs
+:lib-package: io.klibs.serial
 :lib-group: io.k-libs
-:lib-name: some-lib
+:lib-name: number-serialization
 :lib-version: 0.1.0
 :lib-feature: 0.1.0
 
-////
 image:https://img.shields.io/github/license/{gh-group}/{gh-name}[title="License"]
 image:https://img.shields.io/badge/docs-dokka-ff69b4[link="https://{gh-group}.github.io/{gh-name}/dokka/{lib-feature}/{lib-name}/{lib-package}/index.html"]
 image:https://img.shields.io/maven-central/v/{lib-group}/{lib-name}[link="https://search.maven.org/artifact/{lib-group}/{lib-name}"]
-////
 
-A template repository with the boilerplate taken care of.
+Pure Kotlin mixin/extension functions for converting numbers to raw bytes in the
+form of ByteArrays or UByteArrays.
 
-////
 == Import
 
 [source, kotlin, subs="attributes"]
 ----
   implementation("{lib-group}:{lib-name}:{lib-version}")
 ----
-////
+
+== Usage
+
+.Kotlin
+[source, kotlin]
+----
+// Get a ByteArray of the bytes that make up the target number value.
+val bytes = 42.getBytes()
+
+// Get a UByteArray of the bytes that make up the target number value.
+val ubytes = 69.getUBytes()
+
+// Write the bytes that make up a number into a given buffer.
+val byteBuffer = ByteArray(4)
+420.getBytes(buffer = byteBuffer, offset = 0)
+
+// Write the ubytes that make up a number into a given buffer.
+val ubyteBuffer = UByteArray(4)
+666.getUBytes(buffer = ubyteBuffer)
+----
+
+== Version History
+
+[%header, cols="1m,2,9"]
+|===
+| Version | Docs | Description
+| v0.1.0
+| link:https://{gh-group}.github.io/{gh-name}/dokka/0.1.0/{lib-name}/{lib-package}/index.html[Dokka]
+| Initial release. Contains conversion methods for signed and unsigned integral types.
+|===
