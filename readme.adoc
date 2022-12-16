@@ -1,7 +1,7 @@
 = Number Serialization
 :source-highlighter: highlightjs
 :gh-group: k-libs
-:gh-name: k-some-lib
+:gh-name: number-serialization
 :lib-package: io.klibs.serial
 :lib-group: io.k-libs
 :lib-name: number-serialization
